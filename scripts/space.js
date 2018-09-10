@@ -1,3 +1,5 @@
+// Author: Aviral Gupta
+
 var game = (function() {
 
 	var	CANVAS_WIDTH = 600;
