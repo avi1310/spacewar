@@ -1,0 +1,16 @@
+/* line 1 */
+body {
+  font-family: Verdana;
+  font-size: 10pt;
+}
+
+canvas.canvasClass {
+	position: fixed;
+	z-index:  1000;
+	background-image: url("../images/magellanic-clouds.jpg");
+}
+
+#particles-js {
+	position: absolute;
+	z-index: 500;
+}
